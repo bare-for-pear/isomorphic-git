@@ -1,3 +1,5 @@
+> **bare-for-pear fork** — this fork adds a Hyperdrive fs adapter for P2P storage and Bare runtime documentation. See [BARE-FOR-PEAR.md](BARE-FOR-PEAR.md) for details. The upstream code is unmodified.
+
 <p align="center">
   <a href="https://isomorphic-git.org/" target="_blank" rel="noopener">
     <picture>
