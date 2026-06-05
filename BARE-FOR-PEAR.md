@@ -55,11 +55,3 @@ Selected by passing the appropriate fs implementation to isomorphic-git.
 **Not yet exercised:** merge, branch switching, tag operations, large repos,
 concurrent access, symlink round-trip, error edge cases.
 
-## Relationship to p2p-git
-
-This repo is **fork 1** — full isomorphic-git, standard-compatible, dual backend.
-
-[bare-for-pear/p2p-git](https://github.com/bare-for-pear/p2p-git) is **fork 2** —
-stripped to plumbing only (8k lines removed). p2p-git is the foundation for the
-Mycelium git component. It was created by cloning this repo and removing porcelain,
-network, and packfile code.
